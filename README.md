@@ -7,14 +7,14 @@ A copy of the uncompressed data files for WordNet 3.1
 See the Princeton [license](http://wordnet.princeton.edu/wordnet/license/)
 for terms and usage, as reproduced below:
 
-###> Commercial Use
+>### Commercial Use
 
 >WordNet® is unencumbered, and may be used in commercial applications in
 accordance with the following license agreement. An attorney representing the
 commercial interest should review this WordNet license with respect to the
 intended use.
 
-###> WordNet License
+>### WordNet License
 
 >This license is available as the file LICENSE in any downloaded version of
 WordNet. 
